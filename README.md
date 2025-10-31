@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheSpecialist7887
+- 👋 Hi, I’m @asaha7887
 - 👀 I’m interested in Front end development, software development, and data science
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on python projects, MATLAB projects, and web development projects
